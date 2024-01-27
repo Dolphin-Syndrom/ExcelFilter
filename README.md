@@ -11,7 +11,7 @@ The ExcelFilter repository provides a Python script that allows users to extract
 Clone the ExcelFilter repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/excelfilter.git
+git clone https://github.com/Dolphin-Syndrom/excelfilter.git
 ```
 
 ### 2. Install Dependencies
